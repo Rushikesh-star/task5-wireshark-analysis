@@ -13,8 +13,7 @@ Capture live network packets and identify basic protocols (HTTP, DNS, TCP, ICMP)
 7. Identified and analyzed at least 4 protocols.  
 8. Exported capture as .pcap file for submission.  
 
-## Protocols Identified
-- *HTTP:* Used for unencrypted web communication between client and server.  
+## Protocols Identified 
 - *DNS:* Resolves domain names to IP addresses.  
 - *TCP:* Reliable transport protocol ensuring ordered data delivery.  
 - *ICMP:* Used for diagnostic purposes such as ping to test connectivity.  
